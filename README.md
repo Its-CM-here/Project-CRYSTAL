@@ -39,7 +39,6 @@ CRYSTAL/
 │   ├── pms_people_login.sql        # User table
 │   └── pms_people_blocked.sql      # Blocked User Credentials
 ├── data/                           # CSV files (case details)
-├── analysis/                       # Data processing & visualization modules
 ├── requirements.txt                # Required libraries
 ├── Project Log.txt                 # Project Development Timeline
 └── README.md                       # Project documentation
