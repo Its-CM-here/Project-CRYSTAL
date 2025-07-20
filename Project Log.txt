@@ -1,0 +1,37 @@
+Project Log:- 
+
+PMS 1 - Created Basic login and signup section along using backend MySQL DB connection.
+        Also created Baymax - The Voice Assistant.
+
+17/07/21
+PMS 2 - Enhanced the security layer of Login by adding multiple backend verification steps.
+
+19/07/21
+PMS 3 - Corrected the disadvantage of case-insensitive string in MySQL and added an extra
+        layer of backend verification. Also, many Mistakes and Loopholes were fixed in Login and Register.
+
+22-07-21
+PMS 4 - Added a new feature of blocking the user if the password has been entered incorrectly multiple
+        times. Automatic Unblocking method also added.
+    -> PMS 4.1 - Made few alterations to the Blocking System integrated it into the main program
+                 on 23-07-21
+
+26-07-21
+PMS 5 - Integrated Password Strength Checker v1.0, to the main program, for high level security
+    -> PMS 5.1 - Enhancement of Console Elements Display on 27-07-21
+    -> PMS 5.2 - Search for blocked users during username verification and displaying the details
+                 of the blocked user on 27-07-21
+    -> PMS 5.3 - Multiple integration errors fixed. Removed Password strength checker v1.0 on
+                 28-08-21
+    -> PMS 5.4 - Integrated personal questions as a security measure on 02-01-22
+    -> PMS 5.5 - Integrated manual unblocking mechanism on 03-01-22
+
+26-07-21
+PMS 6 - Partial Integration of Stats()
+    -> PMS 6.1 - Complete Integration of Stats() on 27-01-21
+    -> PMS 6.2 - Addition of COVID records by Admin integrated on 27-01-21
+
+28-07-21
+PMS 7 - Comprehensive Code Correction performed - RECENT VERSION
+
+Planned - OTP Verification during Login
